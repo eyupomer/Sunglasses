@@ -1,0 +1,1 @@
+Sayfanın tamamının responsive hale getirilmesi 1,5 saat kadar vaktimi aldı. Kalan sayfaların oluşturulması sayfa başına 10'ar dakika kadar vaktimi aldı.
